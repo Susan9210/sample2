@@ -1,0 +1,4 @@
+Hi my name is Susan
+Learning GIT
+created Git hub account
+
